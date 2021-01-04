@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://ekos.codes/authors/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://ekos.codes/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://ekos.codes/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/first/</loc>
+    <loc>https://ekos.codes/snippets/first/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/second/</loc>
+    <loc>https://ekos.codes/snippets/second/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://ekos.codes/series/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/snippets/</loc>
+    <loc>https://ekos.codes/snippets/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://ekos.codes/tags/</loc>
   </url>
   
 </urlset>
